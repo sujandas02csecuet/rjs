@@ -3,7 +3,8 @@ import React from "react";
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>Happy Ram Navami 2022</h1>
+      <h2>Jay Sree Rama</h2>
     </div>
   );
 }
